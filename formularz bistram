@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+    <html lang="pl-PL">
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Formularz Bistram</title> 
+    </head>
+
+<body bgcolor="#F0FFFF">
+<center><h1>Ankieta o spędzaniu czasu w internecie</h1></center>
+
+<form enctype="text/plain" action="mailto:mkryniew@ids.gda.pl" subject="Bistram" method="Post">
+    <fieldset>
+ <TABLE>
+
+
+    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <b>Podaj imię</b><input name="imie" size="15"><b>Podaj nazwisko</b> <input name="nazwisko" size="15"></b><br><br>       
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <b>Podaj wiek</b><input name="wiek" size="15"><b>Podaj e-mail</b> <input name="mail" size="15"></b><br><br>
+ <TD width="500">   
+<font size="5"><b>Najczęściej używane urządzenie(kilka opcji)</b></font> <br>
+    <input type="checkbox" name="urządzenie" value="telefon" size="15">telefon                                                                                                                                                       
+        <input type="checkbox" name="urządzenie" value="tablet" size="15">tablet<br>
+		<input type="checkbox" name="urządzenie" value="laptop" size="15">laptop
+		<input type="checkbox" name="urządzenie" value="komputer" size="15">komputer<br>
+     
+    </TD>
+<TD width="500">
+<font size="5"><b>Ile godz spędzasz korzystając z internetu</font></b><br>
+<input name="imie" size="15"><br><br>
+</TD>
+ </TR>
+
+    <TR height="200">
+        <TD><nobr><b>Jakiej przeglądarki używasz</b></nobr><br>
+        1.Opera GX &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  <input type="Button" name="pyt1" value="1"> <input type="Button" name="pyt2" value="2"><br><br>
+        2.Google&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <input type="Button" name="pyt3" value="3"> <input type="Button" name="pyt3" value="4"> <BR><br>
+        3.Fire Fox <br><br>
+        4.Internet Exploreer<br><br>
+
+
+    <TD width="500"><b>Z jakich aplikacji korzystasz najczęściej i dlaczego</b> 
+            <textarea cols="50" rows="10"></textarea>
+    </TD>
+<TR height="100">
+    <TD width="500"><b>Od jakiego producenta posiadasz telefon</b> <br>
+        
+            <input type="radio" name="telefon" value="Samsung">Samsung
+            <input type="radio" name="telefon" value="Xiaomi">Xiaomi<br>
+            <input type="radio" name="telefon" value="Apple"> Apple
+            <input type="radio" name="telefon" value="Huawei">Huawei<br>
+			<input type="radio" name="telefon" value="Inny">Inny<br>
+			<TD width="500"><b>Czy wrzucasz filmiki na stronach internetowych</b><br>
+            <input type="radio" name="t" value="Tak">Tak
+			<input type="radio" name="n" value="Nie">Nie<br>
+		<TR height="100">
+    <TD width="500"><b>Czy umiesz wytrzymać bez internetu </b> <b>Czy umiesz wytrzymać bez internetu </b>
+        <br><br>
+        
+            <input type="Checkbox" name="t" value="tak">Tak
+            <input type="Checkbox" name="n" value="nie">NIe<br>
+            
+        </TD>
+		<TD width="500">
+		<b>Czy podobała ci się ankieta</b><br>
+		<input type="checkbox" name="t" value="tak">Tak
+        <input type="checkbox" name="n" value="nie">NIe<br>
+		</TD>
+		<TR height="100">
+    <TD width="500"><b>Czy prześlesz ankiete dalej?</b><br>
+	<input type="radio" name="t" value="tak">Tak
+	<input type="radio" name="n" value="tak">Nie
+	<input type="radio" name="nw" value="tak">Nie wiem<br>
+	</TD>
+		<TR height="100">
+    <TD width="500">
+        </TD>
+
+    <TD> 
+	
+        <input type="submit" value="Wyślij" style="height:80px; width:150px">
+		&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+        <input type="reset" value="Restart" style="height:80px; width:150px"><br>
+		<button style="height:80px; width:150px"><a href="index.html" >Strona główna</a></button>
+		&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+		<input type="button" value="Pomoc" style="height: 80px; width:150px"><br>
+     </TD>
+            </fieldset>
+</TABLE>
+        </form>
+    </body>
+</html>
