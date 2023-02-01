@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+
+<head>
+	<meta charset="utf-8" http-equiv="Content-Type" CONTENT="text/html; charset=iso-8859-2" />
+	<title>
+	tabela
+	</title> 
+</head>
+    <body>
+	<button>
+	<a href="index.html">Strona główna</a>
+	</button><br><br>
+	
+ <table border="3" align=center width=60% cellspacing="0" style="border:solid 3px #538ed4">
+	<tr>
+	<th colspan="5"><font face="AngsanaUPC" size="5"><b>Dane komputerowe – Olivier Bistram 2Kg1</b></font><br></th>
+	</tr>
+	<td bgcolor=#b05704 align=center ><font face="Calibri" size="4"><b>Model karty<br>
+     graficznej</b></font>
+    </td>
+	
+	<td bgcolor=#b05704 align=center><font  face="Calibri" size="4"><b>Taktowanie<br>
+     bazowe</b></font>
+    </td>
+	
+	<td bgcolor=#b05704 align=center><font  face="Calibri" size="4"><b>Rozmiar<br>
+     pamięći</b></font>
+    </td>
+	
+	<td bgcolor=#b05704 align=center><font  face="Calibri" size="4"><b> Szyna
+    pamięći</b></font>
+    </td>
+	
+	<td bgcolor=#b05704 align=center><font  face="Calibri" size="4"><b> Typ<br>
+     chłodzenie</b></font>
+	<tr>
+	<td bgcolor=d3e3df align=left ><font color=gray face="Aharoni" size="4"><b>RTX 3090 Ti</b></font></td>
+	<td bgcolor=d3e3df><font color=red face="Lato" size="4"><b>1890 MHz</b></td>
+	<td bgcolor=d3e3df align=right><font color=orange face="Lato" size="4"><b>24 GB</b></td>
+	<td bgcolor=d3e3df align=center><font face="Lato" size="4"><b>384-bit</b></td></font>
+	</td>
+	
+	<th bgcolor=d3e3df rowspan="6"><font face="Lato" size="4">Aktywne</th></font>
+	</tr>
+	
+	<tr>
+	<td bgcolor=74a7e3 align=left><font color=gray face="Aharoni" size="4"><b>RTX 3090</b></font></td>
+	<td bgcolor=74a7e3><font face="Lato" color=red size="4"><b>1695 MHz</b></td>
+	<td bgcolor=74a7e3 align=right><font color=orange face="Lato" size="4"><b>12 GB</b></td>
+	<td bgcolor=74a7e3 align=center><font  face="Lato" size="4"><b>384-bit</b></td>
+	</font>
+	</tr>
+	
+	<tr>
+	<td bgcolor=74a7e3 align=left><font color=gray face="Aharoni" size="4"><b>RTX 3080 Ti</b></font></td>
+	<td bgcolor=74a7e3><font face="Lato" color=red size="4"><b>1695 MHz</b></td>
+	<td bgcolor=74a7e3 align=right><font color=orange face="Lato" size="4"><b>12 GB</b></td>
+	<td bgcolor=74a7e3 align=center><font  face="Lato" size="4"><b>384-bit</b></td>
+	</font>
+	</tr>
+	
+	<tr>
+	<td bgcolor=74a7e3 align=left><font color=gray face="Aharoni" size="4"><b>RTX 3080 Ti</b></font></td>
+	<td bgcolor=74a7e3><font face="Lato" color=red size="4"><b>1260 MHz</b></td>
+	<td bgcolor=74a7e3 align=right><font color=orange face="Lato" size="4"><b>12 GB</b></td>
+	<td bgcolor=74a7e3 align=center><font  face="Lato" size="4"><b>384-bit</b></td>
+	</font>
+	</tr>
+	
+	<tr>
+	<td bgcolor=1b4b82 align=left><font color=gray face="Aharoni" size="4" color=><b>RTX 3070 Ti</b></font></td>
+	<td bgcolor=1b4b82><font face="Lato" color=red size="4"><b>1575 MHz</b></td>
+	<td bgcolor=1b4b82 align=right><font color=orange face="Lato" size="4"><b>8 GB</b></td>
+	<td bgcolor=1b4b82 align=center><font  face="Lato" size="4"><b>256-bit</b></td>
+	</font>
+	</tr>
+	
+	<tr>
+	<td bgcolor=08305e align=left><font color=gray face="Aharoni" size="4"><b>RTX 3070</b></font></td>
+	<td bgcolor=08305e><font color=red face="Lato" size="4"><b>1500 MHz</b></td>
+	<td bgcolor=08305e align=right><font color=orange face="Lato" size="4"><b>8 GB</b></td>
+	<td bgcolor=08305e align=center><font color=white face="Lato" size="4"><b>256-bit</b></td>
+	</font>
+	</tr>
+	
+	<tr>
+	<th colspan="5" bgcolor=38611c>
+	   <font color=black face="Lato" size="4">Dane kompterowe</th><font>
+	</tr>
+
+	
+	
+	
+	
+	
+</table>
+    </body>
+
+</html>
