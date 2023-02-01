@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+<meta charset="utf-8" http-equiv="Content-Type" CONTENT="text/html; charset=iso-8859-2" />
+<title>
+Plik
+</title>
+</head>
+<body>
+<button>
+<a href="index.html">wróć</a>
+</button><br><br>
+<a href="INST_HTM_technik_2022.pdf" download>k&nbsp;l&nbsp;i&nbsp;k&nbsp;n&nbsp;i&nbsp;j&nbsp; aby ściągnąć plik </a>
+</body>
+</html>
